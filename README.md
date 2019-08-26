@@ -4,6 +4,7 @@
 * Azure Cloud Services: https://github.com/microsoft/threat-modeling-templates
 * default: https://github.com/microsoft/threat-modeling-templates
 * MedicalDeviceTemplate: https://github.com/microsoft/threat-modeling-templates
+* secodis web plain: https://github.com/matthiasrohr/OTMT
 # Installation
 Run the Microsoft Threat Modeling Tool 2016.
 Before creating a new model, select the latest version of the Automotive Threat Modeling Template under "Template For New Models". 
