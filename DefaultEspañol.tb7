@@ -1221,7 +1221,7 @@
       </Attributes>
     </ElementType>
     <ElementType>
-      <Name>Apliacion Web</Name>
+      <Name>Aplicacion Web</Name>
       <ID>SE.P.TMCore.WebApp</ID>
       <Description>
         Entrega contenido web a un usuario humano.
