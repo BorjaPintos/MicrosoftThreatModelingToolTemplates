@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KnowledgeBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Manifest name="SDL TM Knowledge Base Español (Core)" id="cc62ebae-3748-431e-b1df-f4220dc90040" version="4.1.0.11.1" author="TwC MSEC (Traducido por Borja Pintos)" />
+  <Manifest name="SDL TM Knowledge Base Español (Core)" id="cc62ebae-3748-431e-b1df-f4220dc90040" version="4.1.0.11" author="TwC MSEC (Traducido por Borja Pintos)" />
   <ThreatMetaData>
     <IsPriorityUsed>true</IsPriorityUsed>
     <IsStatusUsed>true</IsStatusUsed>
