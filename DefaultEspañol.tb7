@@ -4206,7 +4206,7 @@
       <Id>D3</Id>
       <ShortTitle>Posible bloqueo o detención del proceso para {target.Name}</ShortTitle>
       <Category>D</Category>
-      <Description>{target.Name} se bloquea, se detiene, se detiene o corre lentamente; en todos los casos violando una métrica de disponibilidad.</Description>
+      <Description>{target.Name} se bloquea, se detiene o corre lentamente; en todos los casos violando una métrica de disponibilidad.</Description>
       <PropertiesMetaData>
         <ThreatMetaDatum>
           <Name>UserThreatShortDescription</Name>
@@ -4223,7 +4223,7 @@
           <Label>Descripcion</Label>
           <HideFromUI>false</HideFromUI>
           <Values>
-            <Value>{target.Name} se bloquea, se detiene, se detiene o corre lentamente; en todos los casos violando una métrica de disponibilidad.</Value>
+            <Value>{target.Name} se bloquea, se detiene o corre lentamente; en todos los casos violando una métrica de disponibilidad.</Value>
           </Values>
           <Id>cf377f97-9dea-42d6-ae63-b097c4a8ec4d</Id>
           <AttributeType>0</AttributeType>
