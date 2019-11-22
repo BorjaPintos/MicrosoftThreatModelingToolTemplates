@@ -69,9 +69,9 @@
         <Label>Prioridad</Label>
         <HideFromUI>false</HideFromUI>
         <Values>
-          <Value>Alta</Value>
-          <Value>Media</Value>
-          <Value>Baja</Value>
+          <Value>High</Value>
+          <Value>Medium</Value>
+          <Value>Low</Value>
         </Values>
         <Description>Prioridad</Description>
         <Id>bc9c6e2a-15d0-4863-9cac-589e51e4ca1e</Id>
