@@ -3170,7 +3170,7 @@
         <Exclude />
       </GenerationFilters>
       <Id>T7</Id>
-      <ShortTitle>Posibilidad de Vulnerabilidad de inyecion SQL para {target.Name}</ShortTitle>
+      <ShortTitle>Posibilidad de Vulnerabilidad de inyeccion SQL para {target.Name}</ShortTitle>
       <Category>T</Category>
       <Description>La inyección SQL es un ataque en el que se inserta código malicioso en cadenas que luego se pasan a una instancia de SQL Server para su análisis y ejecución. Cualquier procedimiento que construya sentencias SQL debe revisarse para detectar vulnerabilidades de inyección porque SQL Server ejecutará todas las consultas sintácticamente válidas que reciba. Incluso los datos parametrizados pueden ser manipulados por un atacante experto y determinado.</Description>
       <PropertiesMetaData>
@@ -3215,7 +3215,7 @@
         <Exclude />
       </GenerationFilters>
       <Id>T8</Id>
-      <ShortTitle>Posible vulnerabilida de inyecion SQL para {target.Name}</ShortTitle>
+      <ShortTitle>Posible vulnerabilida de inyeccion SQL para {target.Name}</ShortTitle>
       <Category>T</Category>
       <Description>La inyección SQL es un ataque en el que se inserta código malicioso en cadenas que luego se pasan a una instancia de SQL Server para su análisis y ejecución. Cualquier procedimiento que construya sentencias SQL debe revisarse para detectar vulnerabilidades de inyección porque SQL Server ejecutará todas las consultas sintácticamente válidas que reciba. Incluso los datos parametrizados pueden ser manipulados por un atacante experto y determinado.</Description>
       <PropertiesMetaData>
@@ -4075,7 +4075,7 @@
         <Exclude />
       </GenerationFilters>
       <Id>I26</Id>
-      <ShortTitle>Esquema de autenticacón débil</ShortTitle>
+      <ShortTitle>Esquema de autenticación débil</ShortTitle>
       <Category>I</Category>
       <Description>Los esquemas de autenticación personalizados son susceptibles a debilidades comunes, tales como la gestión de cambios de credenciales débiles, equivalencia de credenciales, credenciales fácilmente adivinables, credenciales nulas, autenticación de degradación o un sistema de gestión de cambio de credenciales débil. Considere el impacto y las posibles mitigaciones para su esquema de autenticación personalizado.</Description>
       <PropertiesMetaData>
