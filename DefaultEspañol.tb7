@@ -4419,7 +4419,7 @@
         <Exclude />
       </GenerationFilters>
       <Id>E5</Id>
-      <ShortTitle>Elevación usando impersonalización</ShortTitle>
+      <ShortTitle>Elevación usando suplantación de identidad</ShortTitle>
       <Category>E</Category>
       <Description>{target.Name} puede suplantar el contexto de {source.Name} para obtener privilegios adicionales.</Description>
       <PropertiesMetaData>
